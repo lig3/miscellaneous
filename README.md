@@ -1,5 +1,5 @@
 # test-github-primary
-A dummy repository to test GitHub repositories and explore functionalities.
+A dummy repository to test and explore GitHub functionalities.
 - This repository is set to **public** for making visable how things get published on git repos.
 
 ## Section 1
